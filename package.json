@@ -1,0 +1,14 @@
+{
+  "name": "japan_vs_mexico_baseball_live_broadcast",
+  "version": "1.0.1",
+  "description": "日本対メキシコ 野球生中継, WBC侍ジャパン メキシコ戦の生中継, 生放送,ライブ 放送 2023 年 3 月 20 日",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ufc-286-live-streaming",
+  "license": "ISC",
+  "keywords": [
+    "日本対メキシコ 野球生中継"
+  ]
+}
